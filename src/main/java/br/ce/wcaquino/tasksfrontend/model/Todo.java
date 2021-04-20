@@ -40,7 +40,7 @@ public class Todo {
 
 	@Override
 	public String toString() {
-		return "Todo2 [id=" + id + ", task=" + task + ", dueDate=" + dueDate + "]";
+		return "Todo [id=" + id + ", task=" + task + ", dueDate=" + dueDate + "]";
 	}
 	
 	
